@@ -1,6 +1,7 @@
 ---
 title: Education
 layout: default
+nav_order: 2
 ---
 
-need to fill...
+education
