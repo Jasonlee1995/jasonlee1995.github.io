@@ -1,6 +1,9 @@
 ---
-title: Home
+title: About Me
 layout: home
 ---
 
-Testing...
+## Current Status
+
+- full-time AI Researcher at ActionPower
+- research intern at CIPLAB
