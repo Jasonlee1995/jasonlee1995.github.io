@@ -3,5 +3,6 @@ description: blog with docs template
 theme: just-the-docs
 
 search_enabled: false
+favicon_ico: "/assets/favicon.ico"
 
 url: https://jasonlee1995.github.io
