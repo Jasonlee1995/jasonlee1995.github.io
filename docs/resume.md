@@ -6,26 +6,26 @@ nav_order: 2
 
 ## Experience
 
-- `2022.10.17` ~ `current` : full-time AI Researcher, ActionPower
+- `Oct, 2022` ~ `current` : full-time AI Researcher, ActionPower
   
 
-- `2021.09.27` ~ `2022.08.25` : full-time Machine Learning Engineer, DeepBio
+- `Sep, 2021` ~ `Aug, 2022` : full-time Machine Learning Engineer, DeepBio
   
 
-- `2020.12.28` ~ `2021.08.31` : full-time Computer Vision Research Engineer, TmaxAI
+- `Dec, 2020` ~ `Aug, 2021` : full-time Computer Vision Research Engineer, TmaxAI
   
 
-- `2020.08.01` ~ `2020.11.30` : part-time Machine Learning Engineer, SOTALabs
+- `Aug, 2020` ~ `Sep, 2020` : part-time Machine Learning Engineer, SOTALabs
   
 
-- `2020.08.03` ~ `2020.08.27` : AI Rush Intern, NAVER CLOVA
+- `Aug, 2020` ~ `Aug, 2020` : AI Rush Intern, NAVER CLOVA
   
 
 
 
 ## Education
 
-- `2014.03` ~ `2021.02` : B.S. in Mechanical Engineering, Yonsei University (Seoul, Korea)
+- `Mar, 2014` ~ `Feb, 2021` : B.S. in Mechanical Engineering, Yonsei University (Seoul, Korea)
 
 
 
