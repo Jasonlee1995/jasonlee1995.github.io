@@ -4,10 +4,8 @@ layout: default
 nav_order: 4
 ---
 
-> 읽은 책 목록
-> 
-> logging start: 2024.01.01
-> 
+> 읽은 책 목록  
+> logging start: 2024.01.01  
 > format: **책 제목**, 저자, 출판사 (발행일)
 
 

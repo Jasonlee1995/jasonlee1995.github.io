@@ -15,24 +15,24 @@ nav_order: 3
 
 
 ## Past Research Experience
-- `Jul, 2023` ~ `Dec, 2023` : Research Intern, OptiML Lab (KAIST AI)
-    Optimization & Machine Learning Lab under professor *Chulhee Yun*
+- `Jul, 2023` ~ `Dec, 2023` : Research Intern, OptiML Lab (KAIST AI)  
+    Optimization & Machine Learning Lab under professor *Chulhee Yun*  
     research topic: example difficulty
-- `Mar, 2022` ~ `Aug, 2022` : Research Intern, DAVIAN Lab (KAIST AI)
-    Data and Visual Analytics Lab under professor *Jaegul Choo*
+- `Mar, 2022` ~ `Aug, 2022` : Research Intern, DAVIAN Lab (KAIST AI)  
+    Data and Visual Analytics Lab under professor *Jaegul Choo*  
     research topic: de-biasing
-- `Jun, 2021` ~ `Nov, 2021` : Research Intern, VILab (Yonsei AI)
-    Visual Intelligence Lab under professor *Youngjung Uh*
+- `Jun, 2021` ~ `Nov, 2021` : Research Intern, VILab (Yonsei AI)  
+    Visual Intelligence Lab under professor *Youngjung Uh*  
     research topic: GAN detection, self-supervised learning
-- `Jul, 2020` ~ `Aug, 2020` : Undergraduate Intern, CVLab (Yonsei EE)
-    Computer Vision Lab under professor *Bumsub Ham*
+- `Jul, 2020` ~ `Aug, 2020` : Undergraduate Intern, CVLab (Yonsei EE)  
+    Computer Vision Lab under professor *Bumsub Ham*  
     research topic: Re-ID, PAR
-- `Apr, 2020` ~ `Jun, 2020` : Undergraduate Intern, YUCM
-    Department of Internal Medicine, Yonsei University College of Medicine
-    Worked unfer professor *Sung Soo Ahn*
+- `Apr, 2020` ~ `Jun, 2020` : Undergraduate Intern, YUCM  
+    Department of Internal Medicine, Yonsei University College of Medicine  
+    Worked unfer professor *Sung Soo Ahn*  
     research topic: detection on X-ray image, segmentation on MRI image
-- `Jan, 2019` ~ `Jun, 2020` : Undergraduate Intern, KBDLab (Yonsei ME)
-    Knowledge Based Design Lab under professor *Soohong Lee*
+- `Jan, 2019` ~ `Jun, 2020` : Undergraduate Intern, KBDLab (Yonsei ME)  
+    Knowledge Based Design Lab under professor *Soohong Lee*  
     research topic: autonomous driving
 
 
