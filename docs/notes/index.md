@@ -1,8 +1,8 @@
 ---
-title: Notes
+title: Tutorial
 layout: default
 nav_order: 5
 ---
 
 
-list of notes...
+> A curated list of top-tier AI conference tutorials available on YouTube
