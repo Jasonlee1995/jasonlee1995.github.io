@@ -6,19 +6,19 @@ nav_order: 2
 
 ## Experience
 
-- `Oct, 2022` ~ `current` : full-time AI Researcher, ActionPower
+- `Oct, 2022` ~ `current` : AI Researcher (full-time), ActionPower
   
 
-- `Sep, 2021` ~ `Aug, 2022` : full-time Machine Learning Engineer, DeepBio
+- `Sep, 2021` ~ `Aug, 2022` : Machine Learning Engineer (full-time), DeepBio
   
 
-- `Dec, 2020` ~ `Aug, 2021` : full-time Computer Vision Research Engineer, TmaxAI
+- `Dec, 2020` ~ `Aug, 2021` : Computer Vision Research Engineer (full-time), TmaxAI
   
 
-- `Aug, 2020` ~ `Sep, 2020` : part-time Machine Learning Engineer, SOTALabs
+- `Aug, 2020` ~ `Sep, 2020` : Machine Learning Engineer (part-time), SOTALabs
   
 
-- `Aug, 2020` ~ `Aug, 2020` : AI Rush Intern, NAVER CLOVA
+- `Aug, 2020` ~ `Aug, 2020` : AI RUSH (intern), NAVER CLOVA
   
 
 
